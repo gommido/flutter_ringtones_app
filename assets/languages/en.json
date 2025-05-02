@@ -1,0 +1,32 @@
+
+{
+
+  "ringtones" : "Ringtones",
+  "player" : "Ringtone player",
+  "privacyPolicy" : "Privacy policy",
+  "moreApps" : "More apps",
+  "rate" : "Rate app",
+  "copyrights" : "Copyrights policy",
+  "close" : "Close",
+  "loadingAd" : "Loading ad, please wait..",
+  "setSuccessfully" : "Ringtone set successfully",
+  "tryAgain" : "Please, try again later..",
+  "setRingtone" : "Set as phone ringtone",
+  "setNotification" : "Set as notification ringtone",
+  "setAlarm" : "Set as alarm ringtone",
+  "requiredPermissions" : "Required permissions",
+  "accessFiles" : "Access files",
+  "allow" : "Allow",
+  "modify" : "Modify system settings",
+  "allowAccessFiles" : "To save ringtones, please allow the app to access files on your phone.",
+  "allowModifySystem" : "To set ringtones, please allow the app to modify system settings.",
+  "watchAd" : "Watch an ad so you can set your favorite ringtone?",
+  "watch" : "watch",
+  "no" : "No",
+  "done" : "Done",
+  "noInternet" : "No internet connection",
+  "allRightsReserved" : "All rights reserved to their respective owners, and the application is not responsible for any intellectual property rights violations.",
+  "reportCopyright" : "If you are the owner of an artwork and would like to report a copyright violation, we are happy to receive your report via the email below.",
+  "artworkWillBeDeleted" : "The artwork will be immediately deleted, and we guarantee that it will not be added again to the application."
+
+}
