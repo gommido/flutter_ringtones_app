@@ -4,7 +4,7 @@ A flutter app that can user set a specific ringtone for his phone or notificatio
 
 Google admob ads has been integrated in this app:
 App open ads
-Rewared video ads
+Rewarded video ads
 Interstitial ads
 
 This app runs only on android devices.
