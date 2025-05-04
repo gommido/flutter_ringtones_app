@@ -1,6 +1,6 @@
 # Flutter ringtones app
 
-A flutter app that can user set a specific ringtone for his phones or notifications.
+A flutter app that can user set a specific ringtone for his phone or notifications.
 
 Google admob ads has been integrated in this app:
 App open ads
