@@ -1,20 +1,26 @@
-#Flutter ringtones app
+# Flutter ringtones app
 
-A flutter android app that can user set a specific ringtone for his phones or notifications.
-
+A flutter app that can user set a specific ringtone for his phones or notifications.
+This app runs only on android devices.
 
 ## Getting Started
 
+Splash screen
 ![Alt text](https://github.com/gommido/flutter_ringtones_app/blob/main/1.png)
 
+Home page EN
 ![Alt text](https://github.com/gommido/flutter_ringtones_app/blob/main/2.png)
 
+Home page AR
 ![Alt text](https://github.com/gommido/flutter_ringtones_app/blob/main/3.png)
 
+Admob app open ad
 ![Alt text](https://github.com/gommido/flutter_ringtones_app/blob/main/4.png)
 
+Ringtones page
 ![Alt text](https://github.com/gommido/flutter_ringtones_app/blob/main/5.png)
 
+Permissions dialog
 ![Alt text](https://github.com/gommido/flutter_ringtones_app/blob/main/6.png)
 
 
