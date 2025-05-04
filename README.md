@@ -1,6 +1,7 @@
-# ringtones_app
+#Flutter ringtones app
 
-A new Flutter project.
+A flutter android app that can user set a specific ringtone for his phones or notifications.
+
 
 ## Getting Started
 
